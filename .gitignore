@@ -30,3 +30,6 @@ bld/
 
 # ClickOnce directory
 publish/
+
+config.bat
+node_modules
